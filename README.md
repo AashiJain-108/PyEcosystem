@@ -1,7 +1,7 @@
 # PyEcosystem
 I created this repository over Github with simple idea: *"I am gonna explore sweet-sweet libraries that were still not known to me"*
 
-__Please anyone reading this I want you to actually respect each and every library instead of it lacking it something or other because:__
+__Please anyone reading this I want you to actually respect each and every library instead of it complaining about it lacking something or other because:__
 
 **1. Building a library requires considerable effort**
 
@@ -16,3 +16,5 @@ A mature library often requires:
 - Community support: Reviewing issues, pull requests and user feedback.
 
 *In fact, maintaining an established library can be an ongoing responsibility long after its initial development.*
+
+Also One library is always created with one centered idea or problem ,contributors are working around.
